@@ -19,19 +19,19 @@
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+        <img height="100px" src="https://www.liblogo.com/img-logo/ph424p5c6-php-logo-php-logo-transparent-png-stickpng.png">
       </td>
       <td width="25%" align="center">
 	      <span><strong>AWS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+        <span><strong>Javascript</strong></span><br><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Laravel</strong></span><br><br><br>
-        <img height="64px" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU]    (https://cdn.byte5.de/cache/2/f/3/d/4/f/2f3d4f050f8a31ab729144b96844cfff9837ef33.jpg)">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png">
       </td>
      </tr>
     <tr valign="top">
@@ -57,5 +57,5 @@
 </table>
 
 ## 📫 Contact Me
-- Github - [@gauravc12]([https://twitter.com/gauravc12](https://github.com/kaanboyacii))
-- LinkedIn - [Gaurav Chouhan](linkedin.com/in/kaan-boyacı-6033011b4)
+- Github - [@kaanboyacii]([https://twitter.com/gauravc12](https://github.com/kaanboyacii))
+- LinkedIn - [Kaan Boyacı](linkedin.com/in/kaan-boyacı-6033011b4)
