@@ -4,13 +4,13 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# I am Hrishikesh , HRISHIKESH-CODER . 
+# I am Kaan , Kaan Boyaci . 
 ## I am a programmer
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java . 
-- <img src="https://cdn.svgporn.com/logos/aws.svg" width=30 height=30>  I also like AWS, Amazon Web Services<br>
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
+- <img src="https://ceptebilisim.com/wp-content/uploads/2022/03/PHP-Logo.wine_.png" width=50 height=50>  I know PHP and I love to code in PHP . I am proficient in Laravel, a web development framework. <br>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width=50 height=50>  I also know Javascript and like coding in Javascript . 
+- <img src="https://www.opendart.com/uploads/opendart.com_reactdersleri_react.png" width=30 height=30>  I also interest React, Javascript Framework<br>
+- <img src="https://www.mehmetcancan.com/dosyalar/2017/10/laravel.png" width=30 height=30>  I have built some projects with laravel and am planning to build some more.<br>
 
 ## My Tech Stack
 
