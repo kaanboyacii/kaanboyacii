@@ -58,4 +58,4 @@
 
 ## 📫 Contact Me
 - Github - [@kaanboyacii]([https://twitter.com/gauravc12](https://github.com/kaanboyacii))
-- LinkedIn - [Kaan Boyacı](linkedin.com/in/kaan-boyacı-6033011b4)
+- LinkedIn - linkedin.com/in/kaan-boyacı-6033011b4
