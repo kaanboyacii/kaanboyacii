@@ -43,8 +43,8 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png"
       alt="pandas" width="40" height="40" /> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="40"
-      height="40" /> </a> <a href="[https://www.php.net/](https://learn.microsoft.com/en-us/dotnet/csharp/)" target="_blank" rel="noreferrer"> <img
-      src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png](https://commons.wikimedia.org/wiki/File:Csharp_Logo.png)"             alt="c#" width="40"
+      height="40" /> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
+      src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png"             alt="c#" width="40"
       height="40" /> </a> </p><a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other" target="_blank"
       rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
