@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">Computer Engineering Student at KBÜ.</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <br>
 
@@ -73,7 +73,10 @@
       width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      alt="react" width="40" height="40" /> </a> 
+        <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img
+      src="https://daqxzxzy8xq3u.cloudfront.net/wp-content/uploads/2019/04/21032431/redux-cover-imgage-1024x768.jpg"
+      alt="react" width="40" height="40" /> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
 
